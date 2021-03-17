@@ -1,0 +1,45 @@
+
+	{
+"version": "Friday v2",
+"frequence explication": "frequence kithakem f chhal men click iban ads",
+
+		"Frequence": "6",
+		"specificationAds explication ": "0 automatique , 1 admob ,2fan ,3 unity , 4 iron",
+		"specificationAds": "2",
+"rate us explication": "chhal men lancement 3ada iban rate",
+	"RateUsPop": "2",
+
+	"iron": "badal li ltaht ila bghiti iron",
+	
+	"ironId": "00",
+	"ironBanner": "DefaultBanner",
+	"ironInter": "DefaultInterstitial",
+	"ironReward": "DefaultRewardedVideo",
+
+
+	"admob": "hado dyal admob li taht",
+
+	"AdmobAppId": "",
+	"interId": "",
+	"bannerId": "",
+	"rewardadmob": "",
+"Nativeadmob": "",
+
+
+"onesignal stuff": "hna key dyal onesignal ",
+
+"Onesignalkey": "d1fcb27e-1d31-4b47-944d-5e5a37e807ee",
+
+	"facebook": "badal li ltaht ila bghiti facebook",
+	
+	"FanInter": "269229034695120_269230518028305",
+	"FanBanner": "269229034695120_269229674695056",
+	"FanReward": "269229034695120_269231221361568",
+
+	"unity": "badal li ltaht ila bghiti unity",
+	
+	"UnityAppId": "00",
+	"UnityInter": "video",
+	"Unitybanner": "banner",
+	"unityreward": "rewardedVideo"
+}
