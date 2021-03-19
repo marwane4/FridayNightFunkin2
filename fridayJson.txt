@@ -19,7 +19,7 @@
 
 	"admob": "hado dyal admob li taht",
 
-	"AdmobAppId": "",
+	"AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
 	"interId": "",
 	"bannerId": "",
 	"rewardadmob": "",
@@ -32,9 +32,9 @@
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
-	"FanInter": "269229034695120_269230518028305",
-	"FanBanner": "269229034695120_269229674695056",
-	"FanReward": "269229034695120_269231221361568",
+	"FanInter": "466372821473073_466375351472820",
+	"FanBanner": "466372821473073_466374894806199",
+	"FanReward": "466372821473073_466375841472771",
 
 	"unity": "badal li ltaht ila bghiti unity",
 	
